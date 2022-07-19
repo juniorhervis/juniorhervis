@@ -1,18 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Desenvolvedor JavaScript em formação. Eu sou o Junior, tenho como foco desenvolvimento back-end com NodeJs / onde venho estudando a mais de 1 ano, possuo boas noções em Lógica de Programação, experiência com desenvolvimento front-end com a tecnologia React.
+Desenvolvedor PHP em formação. Eu sou o Junior, tenho como foco desenvolvimento back-end com NodeJs / onde venho estudando a mais de 1 ano, possuo boas noções em Lógica de Programação, experiência com desenvolvimento.
   
 A capacidade de resolver problemas é a parte que mais me cativa dentro da área, é uma sensação de vitória quando o código enfim roda da forma que deveria e isso é muito motivador.
 
 </p>
 
 <p align="left">
-  🦄  Linguagens: <strong>JavaScript</strong>
+    Linguagens: <strong>JavaScript - PHP</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> NodeJs, ReactJs (Estudando)
+  💼 Ferramentas: <strong> NodeJs, Laravel (Estudando)
 </p>
 
 <p align="left">
