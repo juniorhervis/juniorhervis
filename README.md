@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Desenvolvedor back-end. Eu sou o Junior, possuo boas noções em Lógica de Programação, experiência com desenvolvimento.
+Me chamo Junior, atuo como desenvolvedor back-end, possuo boas noções em Lógica de Programação, experiência com desenvolvimento.
   
 A capacidade de resolver problemas é a parte que mais me cativa dentro da área, é uma sensação de vitória quando o código enfim roda da forma que deveria e isso é muito motivador.
 
